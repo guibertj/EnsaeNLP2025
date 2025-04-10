@@ -3,11 +3,9 @@ Hello, here is my final submission for the "Labs + Mini-Project track".
 
 ## Project
 I have chosen to try and imporve "Sentiment Analysis on Movie Reviews".
-* My goal was to show that the vanilla algorithm face issues while encountering review with mixed feelings.
-
-My idea was for my algorithm to learn to discriminate reviews with mixed feelings and remove them from the accuracy computation. The discriminative power of my algorithm is captured by a parameter going with range in [0, 1]. <br>
-
-In this paper, I have shown the evolution of the Sentiment Analysis classification performance according to the discrimination power on mixed feelings review.
+* Problematic : the vanilla classification algorithm face issues while encountering review with mixed feelings.
+* Idea : I want my algorithm to learn to discriminate reviews with mixed feelings and remove them from the accuracy computation. The discriminative power of my algorithm is captured by a parameter with a range in [0, 1].
+* Result : I will show the evolution of the Sentiment Analysis classification performance according to the discrimination power on mixed feelings review.
 
 ## Github Structure
 
