@@ -1,5 +1,5 @@
 # EnsaeNLP2025
-Hello, 
+Hello, here is my final submission for the "Labs + Mini-Project track".
 
 ## Project Structure
 
