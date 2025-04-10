@@ -1,5 +1,5 @@
 # EnsaeNLP2025
-Hello, here is my final submission for the "Labs + Mini-Project track".
+Hello, here is my final submission for the "Labs + Mini-Project" track.
 
 ## Project
 I have chosen to try and improve "Sentiment Analysis on Movie Reviews".
