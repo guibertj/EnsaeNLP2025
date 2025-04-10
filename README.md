@@ -5,17 +5,17 @@ Hello,
 
 ```
 EnsaeNLP2025/
-├── Labs    # Main algorithm implementation
+├── Labs    
     ├── nlp-lab-language-models/  
     ├── nlp-lab-text-classification/  
     └── nlp-lab-text-embedding/ 
-├── Mini_Project          # Project dependencies
+├── Mini_Project         
     ├── Code/
-    │   ├── dxf_converter.py   # DXF to GeoJSON conversion
-    │   ├── dxf_processing.py  # Main processing pipeline
-    │   └── dxf_utilities.py   # Utility functions
+    │   ├── dxf_converter.py   
+    │   ├── dxf_processing.py  
+    │   └── dxf_utilities.py   
     ├── Data/
-    │   └── dxf_converter.py   # DXF to GeoJSON conversion
+    │   └── dxf_converter.py
     ├── Images/
     └── Project.pdf                
 └── ReadME.md
