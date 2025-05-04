@@ -17,12 +17,13 @@ EnsaeNLP2025/
     └── nlp-lab-text-embedding/ 
 ├── Mini_Project         
     ├── Code/
-    │   ├── dxf_converter.py   
-    │   ├── dxf_processing.py  
-    │   └── dxf_utilities.py   
+    │   ├── a_load.py   
+    │   ├── b_model.py
+    │   ├── c_mix_review.py 
+    │   ├── d_visualisation.py
+    │   └── main.ipynb 
     ├── Data/
-    │   └── dxf_converter.py
-    ├── Images/
-    └── Project.pdf                
+    │   └── Dataset_name.txt
+    └── Mini_project.pdf                
 └── ReadME.md
 ```
